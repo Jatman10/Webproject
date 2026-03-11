@@ -1,0 +1,64 @@
+/*
+  white: #FFFFFF
+  mint green: #DFF0D8
+  dark green #0B3537
+*/
+
+body {
+  background-color: ;
+}
+
+a {
+  color: #0B3537;
+  font-weight: bold;
+}
+
+a:hover {
+  color: #DFF0D8;
+}
+
+h1{
+  color: #0B3537;
+}
+
+ h1{
+  text-align: center;
+ }
+ p.section1 {color: #FFFFFF;
+ }
+ p.section1 { background-color: #0B3537;
+     font-size: 1.2em;
+     border: dotted;
+     border-color: #DFF0D8;
+ }
+p.picture{
+  text-align: center;
+ }
+
+ p, li, table {
+   font-size: 1.2em;
+ }
+
+ th, td {
+  /*border-color: #468BA6;
+  border-style: solid;
+  border-width: 3px;*/
+    border: #DFF0D8 solid 3px;
+    padding: 30px
+ }
+
+ table {
+  border-collapse: collapse;
+  margin-left: auto;
+  margin-right: auto;
+ }
+ 
+ div{
+  background-color: #DFF0D8;
+  width: 646px;
+  padding: 30px;
+  border: dashed;
+  border-color: #0B3537;
+  margin: 40px;
+ }
+ 
